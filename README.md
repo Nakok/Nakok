@@ -4,10 +4,6 @@
 <h1 align="center">Hi, I'm [Your Name] 🚀</h1>
 <h3 align="center">Building Autonomous Drones • Simulating Real Networks • Training Smart Agents</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nakok/AeroLinkSim/main/etc/drone_formation_unique_patterns.gif" width="60%" alt="Drone Simulation" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
