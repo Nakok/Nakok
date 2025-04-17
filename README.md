@@ -2,7 +2,7 @@
 
 <!-- Terminal-style Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=65000B&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Nakok+%F0%9F%91%8B;Building+autonomous+drones+with+RL+%F0%9F%9B%A0;Simulating+network+chaos+with+NetEm+%F0%9F%94%90;Training+agents+to+fly+smarter+%F0%9F%A7%A0%F0%9F%9B%B8" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=65000B&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Nakok+%F0%9F%91%8B;Building+autonomous+drones+with+RL;Simulating+network+chaos+with+NetEm;Training+agents+to+fly+smarter" alt="Typing SVG Banner" />
 </p>
 
 <p align="center">
