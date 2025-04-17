@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nakok/AeroLinkSim/main/images/banner.png" alt="AeroLinkSim Banner" style="border-radius: 10px;" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Nakok/AeroLinkSim/main/images/banner.png" alt="AeroLinkSim Banner" style="border-radius: 1px;" width="100%"/>
 </p>
 
 
