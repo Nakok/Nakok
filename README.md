@@ -9,6 +9,7 @@
   <img src="https://raw.githubusercontent.com/Nakok/AeroLinkSim/images/banner.png" alt="AeroLinkSim Banner" style="border-radius: 10px;" width="100%"/>
 </p>
 
+![banner](images/banner.png)
 ---
 
 <h1 align="center" style="color: #00FFF7;">Hey, I'm Nakok 👋</h1>
