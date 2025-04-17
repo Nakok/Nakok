@@ -41,7 +41,7 @@ My research and open-source projects focus on combining:
 - 💬 **Ask me about**:  
   → PPO, AirSim, NetEm, RL under constraints, network-aware policies  
 - 📫 **Reach me**:  
-  → [your.email@example.com]  
+  → [onjiko.steve@gmail.com]  
   → [LinkedIn](https://linkedin.com/in/YOUR_LINK)  
 - 😄 **Pronouns**: he/him  
 - ⚡ **Fun fact**: I’ve crashed more virtual drones than most people have flown IRL.
