@@ -1,11 +1,6 @@
 <!-- GitHub Profile README -->
 
 <!-- Terminal-style Banner -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Nakok/AeroLinkSim/main/images/logo.png" alt="AeroLinkSim Logo" width="80" style="border-radius: 50%; margin-left: 10px;" />
-</p>
-
-<!-- Terminal-style Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=65000B&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Nakok+%F0%9F%91%8B;Building+autonomous+drones+with+RL;Simulating+network+chaos+with+NetEm;Training+agents+to+fly+smarter" alt="Typing SVG Banner" />
 </p>
