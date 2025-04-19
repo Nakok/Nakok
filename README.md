@@ -2,14 +2,16 @@
 
 <!-- Terminal-style Banner -->
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Nakok/AeroLinkSim/main/images/logo.png" alt="AeroLinkSim Logo" width="120" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=65000B&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Nakok+%F0%9F%91%8B;Building+autonomous+drones+with+RL;Simulating+network+chaos+with+NetEm;Training+agents+to+fly+smarter" alt="Typing SVG Banner" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nakok/AeroLinkSim/main/images/banner.png" alt="AeroLinkSim Banner" style="border-radius: 1px;" width="100%"/>
 </p>
-
-
 
 ---
 
@@ -43,7 +45,7 @@ My research and open-source projects focus on combining:
 - 💬 **Ask me about**:  
   → PPO, AirSim, NetEm, RL under constraints, network-aware policies  
 - 📫 **Reach me**:  
-  → [onjiko.steve@gmail.com]  
+  → onjiko.steve@gmail.com  
   → [LinkedIn](https://linkedin.com/in/YOUR_LINK)   
 - ⚡ **Fun fact**: I’ve crashed more virtual drones than most people have flown IRL.
 
