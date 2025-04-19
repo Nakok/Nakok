@@ -2,7 +2,7 @@
 
 <!-- Terminal-style Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nakok/AeroLinkSim/main/images/logo.png" alt="AeroLinkSim Logo" width="80" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/Nakok/AeroLinkSim/main/images/logo.png" alt="AeroLinkSim Logo" width="50" style="border-radius: 50%;" />
 </p>
 
 
